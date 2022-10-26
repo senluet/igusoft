@@ -1,0 +1,1 @@
+wallet_public_adress;tg_nickname;twitter_nickname;proxy;discord_token;ref_link
